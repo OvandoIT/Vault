@@ -1,8 +1,8 @@
 variable "access_key" {
-  default = "XXXXXXXXXX"
+  default = "AKIASFJOEKGI3FIBZRFA"
 }
 variable "secret_key" {
-  default = "XXXXXXXXXX"
+  default = "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"
 }
 #variable "kms_key" {}
 variable "ssh_pub_key" {}

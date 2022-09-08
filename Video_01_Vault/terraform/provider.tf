@@ -1,6 +1,6 @@
 provider "aws" {
   # AWS Region
-  region     = "eu-central-1"
+  region     = "us-east-2"
   # AWS Access Key
   access_key = var.access_key
   # AWS Secret Key
